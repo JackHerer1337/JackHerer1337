@@ -7,7 +7,7 @@
 📍 Orion Hash Deep Malware Analysis for Windows, macOS, Linux, Android and iOS.
 📍 STOP ABUSE INCLUDES INAPPROPRIATE CONTENT, MALWARE, PHISHING, SPAM, VIRUSES, TROJANS WORMS, SPYWARE, TRADEMARK AND COPYRIGHT VIOLATIONS.
 
-                                                                    🌟🌟🌟🌟🌟
+🌟🌟🌟🌟🌟
 
 <!---
 JackHerer1337/JackHerer1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
